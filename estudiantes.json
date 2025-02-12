@@ -1,0 +1,113 @@
+[
+  {
+    "Cedula": "1245786930",
+    "Nombre": "Alexis",
+    "Apellido": "Guerrero",
+    "Materias": "Calculo Vectorial, Programacion",
+    "Tipo": "Estudiante",
+    "Fecha-Nacimiento": "2005-08-24",
+    "E-Mail": "aleguerrero2005@espe.edu.ec",
+    "Usuario": "aleguerrero2005",
+    "Password": "AleGuerr2005"
+  },
+  {
+    "Cedula": "1723456789",
+    "Nombre": "Maria",
+    "Apellido": "Perez",
+    "Materias": "Fisica, Programacion",
+    "Tipo": "Estudiante",
+    "Fecha-Nacimiento": "2004-11-15",
+    "E-Mail": "mariaperez2004@espe.edu.ec",
+    "Usuario": "mariaperez2004",
+    "Password": "MariaPerez04"
+  },
+  {
+    "Cedula": "1804567891",
+    "Nombre": "Carlos",
+    "Apellido": "Vera",
+    "Materias": "Quimica, Calculo Vectorial",
+    "Tipo": "Estudiante",
+    "Fecha-Nacimiento": "2005-03-20",
+    "E-Mail": "carlosvera2005@espe.edu.ec",
+    "Usuario": "carlosvera2005",
+    "Password": "CarlosVera05"
+  },
+  {
+    "Cedula": "1956789012",
+    "Nombre": "Sofia",
+    "Apellido": "Lopez",
+    "Materias": "Programacion, Fisica",
+    "Tipo": "Estudiante",
+    "Fecha-Nacimiento": "2005-07-10",
+    "E-Mail": "sofialopez2005@espe.edu.ec",
+    "Usuario": "sofialopez2005",
+    "Password": "SofiaLopez05"
+  },
+  {
+    "Cedula": "1623456789",
+    "Nombre": "Juan",
+    "Apellido": "Martinez",
+    "Materias": "Fisica, Calculo Vectorial",
+    "Tipo": "Estudiante",
+    "Fecha-Nacimiento": "2005-01-12",
+    "E-Mail": "juanmartinez2005@espe.edu.ec",
+    "Usuario": "juanmartinez2005",
+    "Password": "JuanMart05"
+  },
+  {
+    "Cedula": "1745678901",
+    "Nombre": "Elena",
+    "Apellido": "Ramirez",
+    "Materias": "Programacion, Quimica",
+    "Tipo": "Estudiante",
+    "Fecha-Nacimiento": "2005-05-30",
+    "E-Mail": "elenaramirez2005@espe.edu.ec",
+    "Usuario": "elenaramirez2005",
+    "Password": "ElenaRamirez05"
+  },
+  {
+    "Cedula": "1234567890",
+    "Nombre": "Lucia",
+    "Apellido": "Gomez",
+    "Materias": "Quimica, Fisica",
+    "Tipo": "Estudiante",
+    "Fecha-Nacimiento": "2005-06-10",
+    "E-Mail": "luciagomez2005@espe.edu.ec",
+    "Usuario": "luciagomez2005",
+    "Password": "LuciaGomez05"
+  },
+  {
+    "Cedula": "1237894560",
+    "Nombre": "Miguel",
+    "Apellido": "Torres",
+    "Materias": "Calculo Vectorial, Fisica",
+    "Tipo": "Estudiante",
+    "Fecha-Nacimiento": "2004-09-25",
+    "E-Mail": "migueltorres2004@espe.edu.ec",
+    "Usuario": "migueltorres2004",
+    "Password": "MiguelTorres04"
+  },
+  {
+    "Cedula": "1245896312",
+    "Nombre": "Andrea",
+    "Apellido": "Castillo",
+    "Materias": "Programacion, Calculo Vectorial",
+    "Tipo": "Estudiante",
+    "Fecha-Nacimiento": "2005-11-08",
+    "E-Mail": "andreacastillo2005@espe.edu.ec",
+    "Usuario": "andreacastillo2005",
+    "Password": "AndreaCast05"
+  },
+  {
+    "Cedula": "1876543210",
+    "Nombre": "Natalia",
+    "Apellido": "Gonzalez",
+    "Materias": "Fisica, Programacion",
+    "Tipo": "Estudiante",
+    "Fecha-Nacimiento": "2005-04-15",
+    "E-Mail": "nataliagonzalez2005@espe.edu.ec",
+    "Usuario": "nataliagonzalez2005",
+    "Password": "NataliaGonz05"
+  }
+]
+
